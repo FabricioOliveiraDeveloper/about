@@ -30,3 +30,12 @@
     font-size: 18px;
     list-style: circle;
 }
+
+
+@media only screen and (max-width: 900px){
+    
+    .section-text{
+        font-size: 16px;
+    }
+
+}
