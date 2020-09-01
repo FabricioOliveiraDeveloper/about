@@ -1,0 +1,32 @@
+/* Fabricio Oliveira */
+
+#section{
+    width: 100%;
+    background: white;
+    position: relative;
+}
+
+
+/* section-title */
+.section-title{
+    font-size: 25px;
+    font-weight: 800;
+    padding: 30px 0px;
+}
+
+/* section-text */
+.section-text{
+    font-size: 22px;
+    font-weight: 100;
+    letter-spacing: 0px;
+    word-spacing: 5px;
+    line-height: 40px;
+    text-align: justify;
+    text-justify: distribute;
+}
+
+
+.skills{
+    font-size: 18px;
+    list-style: circle;
+}

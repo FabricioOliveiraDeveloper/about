@@ -1,0 +1,29 @@
+/* Fabricio Oliveira */
+
+/* navbar */
+#navbar{
+    background-color: white;
+    color: black;
+    position: sticky;
+    top: 0;
+    padding: 25px 0px;
+    z-index: 999;
+}
+
+/* nav-link */
+.nav-link{
+    padding: 0px 0px;
+    margin: 0px 0px;
+    color: inherit;
+}
+
+/* nav-link - hover */
+.nav-link:hover{
+    color: inherit;
+}
+
+/* nav-icon */
+.nav-icon{
+    padding: 0px 0px;
+    margin: 0px 0px;
+}

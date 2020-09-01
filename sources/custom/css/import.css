@@ -1,0 +1,33 @@
+/* Fabricio Oliveira */
+
+
+    /* frameworks */
+
+        /* bootstrap */
+        @import url(../../frameworks/bootstrap/bootstrap.css);
+
+        /* fontawesome */
+        @import url(../../frameworks/fontawesome/css/all.css);
+
+
+    /* /frameworks */
+
+
+    /* custom */
+
+        /* config */
+        @import url(config.css);
+
+        /* navbar */
+        @import url(navbar.css);
+
+        /* header */
+        @import url(header.css);
+
+        /* section */
+        @import url(section.css);
+
+        /* footer */
+        @import url(footer.css);
+
+    /* custom */

@@ -1,0 +1,41 @@
+
+/* FOOTER */
+
+#footer {
+    width: 100%;
+    padding: 50px 0px 20px;
+    position: relative;
+    background: #FFF;
+    color: #000;
+}
+
+#footer .nav-footer {
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+    background: #FFFFFF;
+}
+
+#footer .nav-footer li a {
+    border-radius: 5px;
+    color: #363636;
+    margin: 5px 0px;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+#footer .nav-footer li a:hover {
+    color: #363636;
+    background: #F5F5F5;
+    margin: 5px 0px;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+#footer .nav-footer li .nav-icon:hover {
+    color: #363636;
+    background: transparent;
+}
+
+/* .FOOTER */
+
